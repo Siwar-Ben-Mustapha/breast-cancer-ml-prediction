@@ -187,8 +187,8 @@ breast-cancer-ml-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/arefbakali/breast-cancer-ml-prediction.git
-cd breast-cancer-ml-prediction
+git clone https://github.com/Siwar-Ben-Mustapha/breast-cancer-prediction-ml.git
+cd breast-cancer-prediction-ml
 ```
 
 ### 2. Create a virtual environment
@@ -355,11 +355,8 @@ Main libraries used:
   Docker image on a cloud container service)
 * Trigger automated retraining when Evidently detects significant drift,
   instead of only surfacing an alert
-* ~~Add a probability score instead of only a class prediction~~ ✅ done
 
 ## Author
 
-**Aref Bak Ali**<br>
-AI, Data Science & Agentic AI Student<br>
-GitHub: https://github.com/arefbakali<br>
-LinkedIn: https://linkedin.com/in/aref-bak-ali/
+**Siwar Ben Mustapha**<br>
+GitHub: https://github.com/Siwar-Ben-Mustapha
