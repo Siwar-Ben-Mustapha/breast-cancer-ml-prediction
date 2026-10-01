@@ -356,7 +356,16 @@ Main libraries used:
 * Trigger automated retraining when Evidently detects significant drift,
   instead of only surfacing an alert
 
+
+## Contact
+
+- **GitHub:** http://github.com/Siwar-Ben-Mustapha
+- **LinkedIn:**  linkedin.com/in/siwar-ben-mustapha
+- **Email:** siwar.ben-mustapha@dauphine.eu
+- **Portfolio:**  www.siwarbenmustapha.me
+
 ## Author
 
-**Siwar Ben Mustapha**<br>
-GitHub: https://github.com/Siwar-Ben-Mustapha
+**Siwar Ben Mustapha**  
+AI, Data Science & Agentic AI Student  
+Université Paris Dauphine-PSL
