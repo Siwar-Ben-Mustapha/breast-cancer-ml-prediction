@@ -357,11 +357,14 @@ Main libraries used:
   instead of only surfacing an alert
 
 ## Contact
-**GitHub**: http://github.com/Siwar-Ben-Mustapha
-**LinkedIn** : linkedin.com/in/siwar-ben-mustapha
-**Email**: siwar.ben-mustapha@dauphine.eu
-**Portfolio**: www.siwarbenmustapha.me
-**Author**
-Siwar Ben Mustapha
-AI, Data Science & Agentic AI Student
+
+- **GitHub:** http://github.com/Siwar-Ben-Mustapha
+- **LinkedIn:** www.linkedin.com/in/siwar-ben-mustapha
+- **Email:** siwar.ben-mustapha@dauphine.eu
+- **Portfolio:**  www.siwarbenmustapha.me
+
+## Author
+
+**Siwar Ben Mustapha**  
+AI, Data Science & Agentic AI Student  
 Université Paris Dauphine-PSL
